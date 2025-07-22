@@ -1,0 +1,52 @@
+{
+  "id": 16,
+  "langs": [
+    {
+      "lang": "en",
+      "title": "Our partners",
+      "description": "Lorem ipsum dolor sit amet consectetur. Vulputate tristique facilisis vitae nibh. Diam ac molestie diam tincidunt egestas."
+    },
+    {
+      "lang": "ro"
+    },
+    {
+      "lang": "it"
+    },
+    {
+      "lang": "ru"
+    },
+    {
+      "lang": "es"
+    },
+    {
+      "lang": "fr"
+    }
+  ],
+  "images": [
+    {
+      "imageUrl": "/storage/images/2024-12-21/1734782624312_sequoia_logo_grey.svg"
+    },
+    {
+      "imageUrl": "/storage/images/2024-12-21/1734782657215_xydigital_logo_grey.svg"
+    },
+    {
+      "imageUrl": "/storage/images/2024-12-21/1734782671960_intimissimi_logo_svg.svg"
+    },
+    {
+      "imageUrl": "/storage/images/2024-12-21/1734782684850_w_logo_svg.svg"
+    },
+    {
+      "imageUrl": "/storage/images/2024-12-21/1734782700384_kaufflang_logo_grey.svg"
+    },
+    {
+      "imageUrl": "/storage/images/2024-12-21/1734782717561_Logo_grey_dubai_imobiliare.svg"
+    }
+  ],
+  "lang": {
+    "lang": "en",
+    "title": "Our partners",
+    "description": "Lorem ipsum dolor sit amet consectetur. Vulputate tristique facilisis vitae nibh. Diam ac molestie diam tincidunt egestas."
+  },
+  "title": "Our partners",
+  "description": "Lorem ipsum dolor sit amet consectetur. Vulputate tristique facilisis vitae nibh. Diam ac molestie diam tincidunt egestas."
+}
